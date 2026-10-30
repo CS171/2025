@@ -11,17 +11,17 @@ These are the best projects in 2025.
 
 ### Winner
 <!-- TODO: add project URL -->
-The Disappearing Act
+*The Disappearing Act*  
 Ricardo Fernandes Garcia, Khadijah Olufayo, Jocelyn Shek
 
 ### Runner Up
 <!-- TODO: add project URL -->
-Abortion in Post-Dobbs America
+*Abortion in Post-Dobbs America*  
 Helen Blake, Mina Chae, Claire Yang, April Zhang
 
 ### Honorable Mention
 <!-- TODO: add project URL -->
-Library of Futures
+*Library of Futures*  
 Audrey Yang, Michael Cai, Tanvir Haque, Sydney Nguyen
 
 
@@ -30,17 +30,17 @@ These are the best projects in 2024.
 
 ### Winner
 <!-- TODO: add project URL -->
-Into the QVerse
+*Into the QVerse*  
 Jack Bruce, Aissatou Diallo, Mario Fares
 
 ### Runner Up
 <!-- TODO: add project URL -->
-TrendSetters Fashion Magazine
+*TrendSetters Fashion Magazine*  
 Sammi Zhu, Megan Ong, Trinh Nguyen, Isabel Xue
 
 ### Honorable Mention
 <!-- TODO: add project URL -->
-Voter Turnout
+*Voter Turnout*  
 Max Bahar, Stefan Chu, Ted McCulloch, Anitej Thamma
 
 
