@@ -10,18 +10,15 @@ menu: Fame
 These are the best projects in 2025.
 
 ### Winner
-<!-- TODO: add project URL -->
-*The Disappearing Act*  
+[The Disappearing Act](https://kao027.github.io/On-A-Walk/page1.html)  
 Ricardo Fernandes Garcia, Khadijah Olufayo, Jocelyn Shek
 
 ### Runner Up
-<!-- TODO: add project URL -->
-*Abortion in Post-Dobbs America*  
+[Abortion in Post-Dobbs America](https://arpilz.github.io/cs1710-final-project/)  
 Helen Blake, Mina Chae, Claire Yang, April Zhang
 
 ### Honorable Mention
-<!-- TODO: add project URL -->
-*Library of Futures*  
+[Library of Futures](https://tanvirhaque005.github.io/parallax/)  
 Audrey Yang, Michael Cai, Tanvir Haque, Sydney Nguyen
 
 
@@ -39,8 +36,7 @@ Jack Bruce, Aissatou Diallo, Mario Fares
 Sammi Zhu, Megan Ong, Trinh Nguyen, Isabel Xue
 
 ### Honorable Mention
-<!-- TODO: add project URL -->
-*Voter Turnout*  
+[Voter Turnout](https://max-zjh-the.github.io/voter-turnout-MA/)  
 Max Bahar, Stefan Chu, Ted McCulloch, Anitej Thamma
 
 
