@@ -26,13 +26,11 @@ Audrey Yang, Michael Cai, Tanvir Haque, Sydney Nguyen
 These are the best projects in 2024.
 
 ### Winner
-<!-- TODO: add project URL -->
 *Into the QVerse*  
 Jack Bruce, Aissatou Diallo, Mario Fares
 
 ### Runner Up
-<!-- TODO: add project URL -->
-*TrendSetters Fashion Magazine*  
+[TrendSetters Fashion Magazine](https://github.com/sammizhu/trendSetters.github.io) (source code)  
 Sammi Zhu, Megan Ong, Trinh Nguyen, Isabel Xue
 
 ### Honorable Mention
